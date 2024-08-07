@@ -12,3 +12,6 @@
 
 ![Imagen we resposive celular](https://github.com/user-attachments/assets/75c71179-a914-4c42-9215-e598412fde5b)
 
+## :hammer:Funcionalidades del proyecto
+
+- `Funcionalidad 1`: Encripta palabras que no contenga mayúsculas ni acentos 1- `Funcionalidad 2`: Desencripta palabras que no contenga mayúsculas ni acentos- `Funcionalidad 3`: Puede copiar el texto encriptado o desencriptado.
